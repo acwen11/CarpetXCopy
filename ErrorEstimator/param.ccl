@@ -4,6 +4,7 @@ KEYWORD region_shape "Shape of refined region" STEERABLE=always
 {
   "sphere" :: ""
   "cube" :: ""
+  "boxes" :: ""
 } "sphere"
 
 BOOLEAN scale_by_resolution "Scale error estimate by geometric mean of grid spacing" STEERABLE=always
